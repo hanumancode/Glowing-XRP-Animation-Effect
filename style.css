@@ -13,3 +13,10 @@ h1 {
     color: #111;
     font-size: 16em;
 }
+
+h1 span {
+    display: table-cell;
+    margin: 0;
+    padding: 0;
+    animation: animate 2.0s linear infinite;
+}
